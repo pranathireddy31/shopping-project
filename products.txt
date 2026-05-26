@@ -1,0 +1,5 @@
+products
+
+1	camera
+2	watch
+3	smartphone

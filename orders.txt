@@ -1,0 +1,6 @@
+orders
+
+slno    or_id   product
+1	101	camera
+2	102	watch
+3	103	smartphone
