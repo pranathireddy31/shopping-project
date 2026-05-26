@@ -3,3 +3,6 @@ products
 1	camera
 2	watch
 3	smartphone
+4	AC
+5	Table
+6	TV
